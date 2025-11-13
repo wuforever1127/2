@@ -2,3 +2,4 @@ print (123)
 print("Hello, World!")
 pip install matplotlib seaborn numpy scipy
 pwd
+1
